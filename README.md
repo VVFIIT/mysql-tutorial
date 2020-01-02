@@ -1,8 +1,10 @@
 回归初心，从零开始，再走一遍数据库的学习之路
 
 
-![达克效应][base64str]
+![达克效应][img_github_url]
 
+
+![达克效应1](data:imagepng;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAYl8WUAAACBSURBVDhP7ZCxDYAgEEUZg5JRGIeSko5RGIWSkpHw4n2ImiASY2x43ZH3gJwoLg+jjFqrUMImCuPYiml2MFcGcf0LJdKKRxVTnHO2VpLEtsXnHPwKojp+l7TSCmx3EBM+4DSgQQ2jyD23pNBizHG0C/4cMh4YTeseJIVTJXXMoGzJujnlp4xsYAAAAASUVORK5CYII=)
 
 # 目录
 
@@ -25,4 +27,4 @@
 欢迎捉虫
 
 
-[base64str]:https://github.com/VVFIIT/mysql-tutorial/blob/master/Z/image/%E8%BE%BE%E5%85%8B%E6%95%88%E5%BA%94.jpg
+[img_github_url]:https://github.com/VVFIIT/mysql-tutorial/blob/master/Z/image/%E8%BE%BE%E5%85%8B%E6%95%88%E5%BA%94.jpg
