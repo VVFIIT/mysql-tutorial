@@ -1,7 +1,7 @@
 回归初心，从零开始，再走一遍数据库的学习之路
 
 
-![达克效应][img_github_url]
+![达克效应][pngtester1]
 
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" />
 
