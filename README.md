@@ -25,4 +25,4 @@
 欢迎捉虫
 
 
-[img_github_url]:https://github.com/VVFIIT/mysql-tutorial/blob/master/Z/image/TakEffect.jpg
+[img_github_url]:https://github.com/VVFIIT/mysql-tutorial/blob/master/Z/image/DunningKrugerEffect.jpg
