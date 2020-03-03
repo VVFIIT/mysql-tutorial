@@ -16,11 +16,13 @@
 - 1.1 [选择数据库版本](Lession1/1.1-选择数据库版本.md)
 - 1.2 [标识符命名规范](Lession1/1.2-标识符命名规范.md)
 - 1.3 [创建数据库](Lession1/1.3-创建数据库.md)
-- 1.4 [数据类型](Lession1/1.4-数据类型.md)
+
 
 ### 第2章 创建一张表
+- 2.1 [行与列](Lession2/2.1-行与列.md)
+- 2.9 [数据类型](Lession2/2.9-数据类型.md)
 
 欢迎捉虫
 
 
-[img_github_url]:https://github.com/VVFIIT/mysql-tutorial/blob/master/Z/image/%E8%BE%BE%E5%85%8B%E6%95%88%E5%BA%94.jpg
+[img_github_url]:https://github.com/VVFIIT/mysql-tutorial/blob/master/Z/image/TakEffect.jpg
