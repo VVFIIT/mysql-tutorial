@@ -8,11 +8,7 @@ NDB Cluster （分布式存储引擎）
 关键字
 函数
 视图  
-```bash
-# 查看配置文件 my.cnf 的位置
-whereis my.cnf
-# 输出： my: /etc/my.cnf
-
-# 编辑
-vi /etc/my.cnf
-```
+预留字段？
+多表连接，一对多，多对多，中间表
+聚簇索引和非聚簇索引
+InnoDB和MyISAM的区别
